@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0196563680f514c62b8d2973969944be, type: 3}
+  m_Name: 5_11
+  m_EditorClassIdentifier: 
+  difficulty: 3
+  coins: 120
+  uniqueCode: REBXVGW
+  questDescription: {fileID: 11400000, guid: 7824676c20dd7454c8f758d89bf8a04a, type: 2}
+  width: 4
+  height: 4
+  activatedIndexList: 01000000020000000600000007000000090000000b0000000c000000
+  crossActivation: 1

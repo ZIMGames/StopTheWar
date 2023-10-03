@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9228f69bed6d6475c99ee55cbb2f6340, type: 3}
+  m_Name: ukrTank
+  m_EditorClassIdentifier: 
+  heroName: BTR-1
+  sprite: {fileID: 21300000, guid: 0845601b02ebd47d5bb1dc327ca92410, type: 3}
+  heroType: 3
